@@ -15,6 +15,8 @@ Skip irritating pre-buffer ads on your local news website... if they use mp4 vid
 Make it much more general
 - find m4v/ogv/etc. 
 - find mp4(etc) urls embedded in javascript etc. 
+- possibly stop/mute the jwplayer (or whatever) the video is being driven by originally
+- gauge popularity of avoiding the popup window, overlay an iframe instead??
 - Feel free to contribute solutions to this if you like.
 
 ###Notes:
