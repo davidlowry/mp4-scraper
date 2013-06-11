@@ -1,0 +1,3 @@
+// Copy the bottom line below into your address bar, then drag + drop it onto your bookmark bar BEFORE loading it as a 'page.' Otherwise open your bookmark manager + add.
+// Works in latest Safari + Chrome
+javascript:var%20d=document,w=window,e=w.getSelection,k=d.getSelection,x=d.selection,s=(e?e():(k)?k():(x?x.createRange().text:0)),f='http://infinity21.net/tools/mp4-scraper.html',l=d.location,e=encodeURIComponent,u=f+'?u='+l.href+'&t='+e(d.title)+'&s='+e(s)+'&v=4';a=function()%7Bif(!w.open(u,'t','toolbar=0,resizable=1,scrollbars=1,status=1,width=720,height=570'))l.href=u;%7D;if%20(/Firefox/.test(navigator.userAgent))%20setTimeout(a,%200);%20else%20a();void(0)
